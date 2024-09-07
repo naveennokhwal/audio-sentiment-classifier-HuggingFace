@@ -34,7 +34,8 @@ The Hugging Face model used in this project is: m3hrdadfi/hubert-base-persian-sp
 The results obtained from testing the model on both datasets are as follows:
 
 - **Shemo Dataset Results**:
-- for female audio: 
+- for female audio:
+  
 |    Emotions   | precision | recall | f1-score | accuracy     |
 |:-------------:|:---------:|:------:|:--------:|:------------:|
 |   Anger       |   0.98    |   1.0  |   0.99   |     0.98     |
@@ -55,6 +56,7 @@ The results obtained from testing the model on both datasets are as follows:
 |   Surprise    |   0.79    |   1.0  |   0.88   |     0.79     |
   
 - **RAVDESS Dataset Results**:
+
 |    Emotions   | precision | recall | f1-score | accuracy     |
 |:-------------:|:---------:|:------:|:--------:|:------------:|
 |   Anger       |   0.92    |   1.0  |   0.96   |     0.92     |
